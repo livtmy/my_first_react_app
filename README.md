@@ -10,13 +10,13 @@ You need to have Node.js installed in your machine so that you can use the "npm"
 
 Step 1: click the "Clone or download" button on the upper right side of this webpage.
 
-Step 2: choose "use HTTPS" instead of "use SSH"
+Step 2: choose "use HTTPS" instead of "use SSH".
 
-Step 3: copy the url from the edit text
+Step 3: copy the url from the edit text.
 
-Step 4: open Git Bash on your device
+Step 4: open Git Bash on your device.
 
-Step 5: navigate to the file that you want to store the source code of this application using the "cd" command
+Step 5: navigate to the file that you want to store the source code of this application using the "cd" command.
 
 Step 6: type "git clone <url>", replace "<url>" with the url copied from Github; and press enter.
 
